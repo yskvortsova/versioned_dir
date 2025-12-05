@@ -9,3 +9,6 @@ For example, in this first version of the file we
 will say that the cat goes meow and dog goes woof.
 
 kittens are cute
+
+kittens are cuter than puppies
+
